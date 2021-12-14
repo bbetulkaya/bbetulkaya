@@ -8,7 +8,7 @@ For now, I am at the beginning of the road in these areas. I aim to develop myse
 I currently have started my become self-taught a game developer journey with the new social media accounts. I will create content about my journey and share it.
 
 - 🔭 I'm currently working on developing mobile games with Unity.
-- 🌱 I’m currently learning C++, AI with Unreal Engine because one day I want to become a part of a AAA game company and if my force become stronger maybe I will be programmer in future Star Wars Projects.
+- 🌱 I’m currently learning C++, AI with Unreal Engine because one day I want to becomes a part of a AAA game company and if my force become stronger maybe I will be programmer in future Star Wars Projects.
 - 👯 I’m looking to collaborate on hyper-casual mobile games.
 - 🤔 I’m looking for help with 3D modelling and character animations.
 - 💬 Ask me about If you get stuck with Unity and C++. I'll be glad to help you folks 
