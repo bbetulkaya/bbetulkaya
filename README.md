@@ -19,6 +19,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -42,7 +44,6 @@
 <img src="https://raw.githubusercontent.com/bbetulkaya/bbetulkaya/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/bbetulkaya/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  /></a>
  <a href="https://www.instagram.com/webdev.cat"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="28" alt="instagram logo"  /></a>
