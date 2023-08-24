@@ -5,7 +5,9 @@
 
 <br clear="both">
 
-<p align="left">🌟╮ (. ❛ ᴗ ❛.) ╭🌟 <br>I'm here to bring together the best of both worlds: 3D artistry and web development skills. My true passion? Crafting websites that are visually stunning and offer an exceptional user experience tailored to customer preferences. My goal is to create online spaces that leave a lasting impression. <br><br>Feel free to share your thoughts – I'm all ears and super thrilled to lend a helping hand in any way I can!</p>
+<!--<p align="left">🌟╮ (. ❛ ᴗ ❛.) ╭🌟 <br>I'm here to bring together the best of both worlds: 3D artistry and web development skills. My true passion? Crafting websites that are visually stunning and offer an exceptional user experience tailored to customer preferences. My goal is to create online spaces that leave a lasting impression. <br><br>Feel free to share your thoughts – I'm all ears and super thrilled to lend a helping hand in any way I can!</p> -->
+
+<p align="left">🌟╮ (. ❛ ᴗ ❛.) ╭🌟<br>I'm a 3D artist and web developer who loves combining creativity and code. I have a year of experience in 3D artistry and a degree in computer science. My goal is to design websites that are visually stunning and enjoyable to use. I believe that art and technology can come together to create online experiences that people will adore. <br><br>Do you have any ideas or feedback? Let's talk and create some digital magic together!</p>
 
 ###
 
