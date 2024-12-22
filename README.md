@@ -11,7 +11,7 @@ I'm a **Cyber Security Analyst** on a mission to protect the digital world! With
 
 ### 🌍 Let’s Connect
 
-- **Blog**: [betulkaya.net](https://betulkaya.net/)
+- **Blog**: [betulkaya.net]([https://betulkaya.net/](https://medium.com/@cyberwebdev))
 - **X (Twitter)**: [@cyberwebdev0](https://x.com/cyberwebdev0)
 
 **Your friendly neighborhood Cyber Security Analyst**. Feel free to reach out! 😊
