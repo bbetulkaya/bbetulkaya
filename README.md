@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Betul!
 
-I’m focused on **Cyber Security** with a strong interest in **threat analysis**, **malware**, **ransomware**, and using **Python** to solve security challenges. I enjoy developing projects and researching threat tactics to stay ahead in the cyber world. My goal is to contribute to cyber security while sharing my journey along the way. 🚀
+I’m focused on **Cyber Security** with a strong interest in **threat analysis**, **malware**, **DFIR**, and using **Python** to solve security challenges. I enjoy developing projects and researching threat tactics to stay ahead in the cyber world. My goal is to contribute to cyber security while sharing my journey along the way. 🚀
 
 ### 🔐 What I’m Into
 
-- Analyzing **Malware** & **Ransomware**
+- Analyzing **Malware**
 - Loves creating **Automation projects** in the terminal.
 - Exploring **Cyber Threat** and **Tactics**
 
 ### 🌍 Let’s Connect
 
 - **Blog**: [Betul's Cyber Notes](https://betulkaya.net/)
-- **X (Twitter)**: [@cyberwebdev0](https://x.com/cyberwebdev0)
+- **X (Twitter)**: [@cybernotesX](https://x.com/cybernotesX)
+- **Youtube**: [@cybernotesY](https://www.youtube.com/@cybernotesY)
+- **LinkedIN**: [Cyber Notes](https://www.linkedin.com/company/cyber-notes)
 
 **Your friendly neighborhood Cyber Security Analyst**. Feel free to reach out! 😊
 
